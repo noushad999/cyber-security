@@ -1,7 +1,9 @@
 # 🚀 Complete Cybersecurity Learning Guide: Basics to Advanced (2025–2030)
 
 ![Cybersecurity GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU2OGxkMjV2ZnFvZGl4ZmNoeGwwZnkyYno0OGsyZHBzcTJ3aGNyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZvLUtG6BZkBi0/giphy.gif)
-*(Stay ahead of the curve in the ever-evolving world of cybersecurity!)*
+
+
+*Stay ahead of the curve in the ever-evolving world of cybersecurity!*
 
 ---
 
