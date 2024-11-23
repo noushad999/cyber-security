@@ -1,6 +1,6 @@
 # 🚀 Complete Cybersecurity Learning Guide: Basics to Advanced (2025–2030)
 
-![Cybersecurity GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN4eTUydm1keTFvM3FrNHkxbHRpNnozenEwNHFub3A0NjN1NHJqYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif)  
+![Cybersecurity GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN4eTUydm1keTFvM3FrNHkxbHRpNnozenEwNHFub3A0NjN1NHJqYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif)
 *(Stay ahead of the curve in the ever-evolving world of cybersecurity!)*
 
 ---
