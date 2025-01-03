@@ -3,9 +3,6 @@
 Welcome to the **CyberSecurity by Noushad** repository!  
 Dive into the fascinating world of cybersecurity, where you'll learn about key concepts, modern practices, and essential skills to safeguard critical assets and data.
 
-## Table of Contents  
-- [Key Concepts (Page 1)](Page-1.md)  
-
 ## License  
 This content is provided under the MIT License.  
 Feel free to share and contribute!
@@ -80,7 +77,7 @@ This represents an organization’s ability to:
 
 ---
 
-### 🚨 **Threats and Threat Actors**  
+🚨 **Threats and Threat Actors**  
 - **Threat:** Any event that could harm assets, like malware or phishing.  
 - **Threat Actor:** Anyone posing a security risk, from lone hackers to organized groups.  
 
@@ -88,7 +85,7 @@ This represents an organization’s ability to:
 
 ---
 
-### 🛠️ **Technical vs. Transferable Skills**  
+ 🛠️ **Technical vs. Transferable Skills**  
 - **Technical Skills:** Knowledge of tools, procedures, and policies specific to cybersecurity. Examples include using firewalls or encryption techniques.  
 - **Transferable Skills:** Broader skills from other fields that are useful in cybersecurity, like critical thinking and communication.  
 
@@ -135,7 +132,7 @@ The SOC monitors the network and its systems to detect and respond to cybersecur
 <details>
 <summary><strong>Threat Intelligence</strong></summary>
 <p>
-### Overview:
+Overview:
 Intelligence refers to the information gathered about potential adversaries to improve an organization’s defense strategies.
 
 ### Purpose:
