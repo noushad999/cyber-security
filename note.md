@@ -152,7 +152,7 @@ Intelligence refers to the information gathered about potential adversaries to i
 <details>
 <summary><strong>DFIR – Digital Forensics and Incident Response</strong></summary>
 <p>
-### Digital Forensics:
+Digital Forensics:
 The science of investigating crimes and establishing facts using digital evidence.
 
 #### Focus Areas:
