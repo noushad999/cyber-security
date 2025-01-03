@@ -182,7 +182,7 @@ Managing incidents such as data breaches or attacks.
 <details>
 <summary><strong>Malware Analysis</strong></summary>
 <p>
-### What is Malware?
+What is Malware?
 Malware (malicious software) refers to programs, files, or documents designed to harm or exploit systems.
 
 #### Types of Malware:
