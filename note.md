@@ -539,7 +539,7 @@ A **Router** is a device that operates at the **OSI Layer 3 (Network Layer)** an
 ## 8. Gateway
 
 ### Definition:
-A **Gateway** is a device that connects two different types of networks, typically a local network and a wide-area network (WAN) or different protocols (e.g., IP to non-IP). It operates at the **OSI Layer 3 (Network Layer)** or higher.
+A **Gateway** is a build in software in routers that connects two different types of networks, typically a local network and a wide-area network (WAN) or different protocols (e.g., IP to non-IP). It operates at the **OSI Layer 3 (Network Layer)** or higher.
 
 ### Key Features:
 - **Protocol Translation**: Converts data between different protocols.
