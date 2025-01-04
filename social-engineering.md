@@ -69,7 +69,7 @@
 4. Always remain vigilant, verify links, and ensure your systems are up-to-date.
 
 ---
-```
+
 Hacked!!!
 
 ## Social Engineering Attacks
@@ -121,3 +121,4 @@ Social engineering is highly effective due to its ability to manipulate human tr
 - **Urgency**: The threat of immediate consequences pressures the target into acting quickly without thought.
 
 ---
+```
