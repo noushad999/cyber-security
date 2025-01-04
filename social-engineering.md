@@ -1,4 +1,4 @@
-## 1. Social Engineering
+##  Social Engineering
 
 **Social Engineering** refers to cyberattacks that exploit human behavior instead of targeting computer systems. Often called "People Hacking," attackers manipulate individuals to gain sensitive information.
 
