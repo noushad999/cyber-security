@@ -554,8 +554,7 @@ If a firewall is configured to allow communication from a specific MAC address (
 Understanding how networks function, the differences between IPv4 and IPv6, and the role of IP and MAC addresses is foundational to network communication. As IPv6 adoption increases, it addresses the limitations of IPv4, particularly in terms of address space and security.
 
 
-```markdown
-# Cybersecurity Notes: Social Engineering, Phishing, and Malware
+# Social Engineering, Phishing, and Malware
 
 ---
 
@@ -563,7 +562,7 @@ Understanding how networks function, the differences between IPv4 and IPv6, and 
 
 **Social Engineering** refers to cyberattacks that exploit human behavior instead of targeting computer systems. Often called "People Hacking," attackers manipulate individuals to gain sensitive information.
 
-### Example:
+# Example:
 - Instead of brute-forcing a password, an attacker might simply trick the victim into revealing it.
 
 **Watch**:  
