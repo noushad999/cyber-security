@@ -1,3 +1,77 @@
+## 1. Social Engineering
+
+**Social Engineering** refers to cyberattacks that exploit human behavior instead of targeting computer systems. Often called "People Hacking," attackers manipulate individuals to gain sensitive information.
+
+# Example:
+- Instead of brute-forcing a password, an attacker might simply trick the victim into revealing it.
+
+**Watch**:  
+- [What is Social Engineering? (Video 1)](https://youtu.be/opRMrEfAIiI?si=lCP9WfKAF1ZXUvP8)  
+- [Social Engineering in Action (Video 2)](https://youtu.be/fHhNWAKw0bY?si=_8pX106HWTSTsVM9)  
+- [Preventing Social Engineering (Video 3)](https://www.youtube.com/watch?v=PWVN3Rq4gzw)  
+
+---
+
+## 2. Phishing
+
+**Phishing** is a subset of social engineering where attackers trick victims into opening malicious links or messages to steal sensitive data.
+
+### Key Features:
+- Targets individuals and businesses.
+- Initial step for larger attacks on corporate networks.
+
+### Types of Phishing:
+| **Attack Type**    | **Definition**                                                                                         |  
+|--------------------|------------------------------------------------------------------------------------------------------|  
+| **General Phishing** | Non-specific attacks targeting large groups (e.g., all PayPal users). Easy to detect due to errors. |  
+| **Spearphishing**   | Targeted attacks on specific individuals or groups (e.g., employees of a company). Better crafted.  |  
+| **Whaling**         | Highly specific attacks targeting high-value individuals (e.g., executives). Extremely hard to spot.|  
+
+### Example Scenario:
+- A victim receives a fake email claiming to be from "Amazon," warning of unauthorized purchases.
+- The link leads to a fake login page where credentials are stolen.
+
+---
+
+## 3. Malware and Ransomware
+
+**Malware** refers to software designed to harm systems, while **ransomware** encrypts data and demands payment for its release.
+
+### Ransomware Characteristics:
+- Spreads rapidly through vulnerabilities in software (e.g., Windows OS).
+- Attacker demands ransom (often in cryptocurrency).
+
+### Delivery Methods:
+1. **Email Attachments**  
+   - Malicious files like Word documents with macros, .exe files, PDFs, or scripts.
+   - **Example**: An attacker sends a document asking the victim to click "Enable Content," activating malicious code.
+   
+2. **Exploitation of Vulnerabilities**  
+   - Attackers exploit weaknesses in web servers or public infrastructure to gain internal network access.
+
+### Prevention Tips:
+- Avoid clicking "Enable Content" in suspicious files.
+- Do not execute unknown scripts or files.
+- Update systems regularly to patch vulnerabilities.
+
+### What to Do in Case of Ransomware?
+- **DO NOT pay the ransom.**
+- Contact authorities immediately.
+- Isolate infected devices from the network.
+- Do not power off the device; it might destroy decryption opportunities.
+
+---
+
+## Key Takeaways
+1. Social engineering exploits human vulnerability rather than technical flaws.
+2. Phishing is the most common form of social engineering attack.
+3. Ransomware is a highly destructive malware type, demanding immediate containment and professional intervention.
+4. Always remain vigilant, verify links, and ensure your systems are up-to-date.
+
+---
+```
+Hacked!!!
+
 ## Social Engineering Attacks
 
 **Social Engineering** exploits human psychology to manipulate people into revealing confidential information or performing actions that compromise security.
