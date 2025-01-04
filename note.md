@@ -461,19 +461,23 @@ A **Modem** (Modulator-Demodulator) is a device that converts digital data from 
 
 ---
 
-## 4. Microphone (Mic)
+## 4. NIC (Network Interface Card)
 
 ### Definition:
-A **Microphone** is an input device used to capture sound and convert it into digital or analog signals for processing.
+A **Network Interface Card (NIC)** is a hardware component that allows a device (such as a computer or server) to connect to a network. It operates at the **OSI Layer 2 (Data Link Layer)** and is responsible for establishing a physical link with the network.
 
 ### Key Features:
-- Converts **sound** into **electrical signals**.
-- Used in **audio recording**, **telecommunication**, and **voice-based communication**.
+- Provides a **physical connection** to a network via wired or wireless mediums (Ethernet, Wi-Fi).
+- **MAC Address**: Every NIC has a unique Media Access Control (MAC) address used for identifying the device on the network.
+- Supports both **wired (Ethernet)** and **wireless (Wi-Fi)** network types.
 
 ### Types:
-- **Dynamic Microphone**: Uses a diaphragm and coil to capture sound.
-- **Condenser Microphone**: Uses an electrically-charged diaphragm for better sound capture.
-- **Lavalier Microphone**: Small and clip-on, commonly used for presentations.
+- **Wired NIC**: Typically uses **Ethernet** cables to connect to the network.
+- **Wireless NIC (Wi-Fi Adapter)**: Allows a device to connect to the network wirelessly.
+
+### Limitations:
+- **Physical Limitations**: Wired NICs require a physical cable connection, while wireless NICs may face signal interference.
+- **Speed limitations**: Can vary based on the type of network and the NIC's specifications.
 
 ---
 
