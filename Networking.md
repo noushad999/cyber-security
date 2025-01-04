@@ -482,3 +482,86 @@ Unguided media transmits data wirelessly through electromagnetic waves. Common t
 | **Use Cases**         | LANs, telephones     | Cable TV, internet  | Backbone, long-distance |
 
 ---
+
+# Switching
+
+**Switching** is a technique used in computer networks to forward packets or data from one device to another across the network. It enables efficient utilization of network resources by dynamically selecting the best path for data transfer.
+
+---
+
+## Key Functions of Switching
+1. **Data Forwarding:** Transfers data packets from the source to the destination.
+2. **Path Selection:** Determines the most efficient route for data transmission.
+3. **Traffic Management:** Handles network congestion by managing data flow.
+
+---
+
+## Types of Switching
+
+Switching can be categorized into three main types:
+
+### 1. **Circuit Switching**
+- **Description:** Establishes a dedicated communication path between the sender and receiver before data transfer begins.
+- **Characteristics:**
+  - Connection-oriented.
+  - Fixed bandwidth allocation.
+  - Data is transferred in a continuous stream.
+- **Advantages:**
+  - Consistent quality of service (QoS).
+  - Reliable for real-time applications like voice calls.
+- **Disadvantages:**
+  - Inefficient for data transfer as bandwidth is reserved even when no data is sent.
+  - High setup time for connection establishment.
+- **Applications:** Telephone networks, traditional voice communication.
+
+---
+
+### 2. **Packet Switching**
+- **Description:** Divides data into small packets that are transmitted independently over the network.
+- **Characteristics:**
+  - Connectionless or connection-oriented.
+  - Dynamic route selection for each packet.
+  - Efficient use of network bandwidth.
+- **Advantages:**
+  - Better utilization of resources.
+  - More scalable and flexible.
+  - Suitable for bursty traffic like internet browsing.
+- **Disadvantages:**
+  - Potential delay due to packet queuing and reassembly.
+  - Less predictable QoS.
+- **Applications:** Internet, email, file transfer protocols.
+
+---
+
+### 3. **Message Switching**
+- **Description:** Sends the entire message to the intermediate device, where it is stored and forwarded to the next device.
+- **Characteristics:**
+  - Store-and-forward mechanism.
+  - No dedicated path is required.
+- **Advantages:**
+  - Reduces the need for real-time processing.
+  - Provides message integrity by storing data at intermediate nodes.
+- **Disadvantages:**
+  - Increased delay due to storage and forwarding.
+  - Requires more storage at intermediate devices.
+- **Applications:** Email systems, SMS.
+
+---
+
+## Comparison of Switching Types
+
+| **Feature**         | **Circuit Switching**     | **Packet Switching**     | **Message Switching**     |
+|----------------------|---------------------------|---------------------------|---------------------------|
+| **Connection Type**  | Dedicated path           | Dynamic path for each packet | Dynamic store-and-forward |
+| **Efficiency**       | Low                      | High                      | Moderate                  |
+| **Delay**            | Minimal (once connected) | Variable                  | High                      |
+| **QoS**              | High                     | Variable                  | Variable                  |
+| **Applications**     | Voice calls, PSTN        | Internet, VoIP            | Email, messaging systems  |
+
+---
+
+## Hybrid Switching
+
+In modern networks, hybrid switching techniques combine the benefits of multiple switching types to optimize performance and efficiency. For instance, MPLS (Multi-Protocol Label Switching) integrates the speed of circuit switching with the flexibility of packet switching.
+
+---
