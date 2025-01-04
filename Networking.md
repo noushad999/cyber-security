@@ -1,5 +1,7 @@
 ## What is Networking?
 Networking refers to the process of connecting computers, servers, and other devices together to share resources and communicate with each other. It enables devices to exchange data and provides a platform for applications and services to operate across multiple devices.
+                                 Or
+A network is a connection between computing devices that are connected in various ways in order to communicate and share information or resources.
 
 ---
 
@@ -268,5 +270,91 @@ A **Wireless Access Point (WAP)** is a device that allows wireless devices (like
 ### Limitations:
 - **Signal Interference**: Can be affected by physical obstacles and other devices emitting signals on the same frequency.
 - **Limited Range**: Coverage area may be limited compared to wired connections.
+
+---
+## Internet
+
+The internet is essentially a connection of **Wide Area Networks (WANs)** that spans across the globe, connecting millions of devices.
+
+---
+
+## Identifying Devices on a Network
+
+### IP Address
+
+An **IP Address** (Internet Protocol Address) is used to identify a host on a network. It is typically divided into **four octets**. Each octet represents part of the address and is calculated through a technique known as **IP addressing & subnetting**. An IP address can either be **public** or **private**, depending on the network type.
+
+---
+
+### Media Access Control (MAC) Address
+
+A **MAC Address** is similar to a **serial number** and identifies a network device at the hardware level. It is a **12-character hexadecimal** number (e.g., `a4:c3:f0:85:ac:2d`). The first six characters represent the company that manufactured the network device, and the last six represent a unique number assigned to the device.
+
+---
+
+## IPv4 vs. IPv6
+
+### IPv4 (Internet Protocol Version 4)
+
+IPv4 is the **fourth version** of the Internet Protocol and is still widely used for identifying devices on a network.
+
+#### Key Features of IPv4:
+- **Address Format:** 32-bit address (e.g., `192.168.1.1`).
+- **Address Space:** Supports around **4.3 billion** unique addresses.
+- **Header Size:** 20 bytes (minimum).
+- **Configuration:** Can be configured manually or using **DHCP**.
+- **Security:** Relies on external protocols like **IPsec** for security.
+  
+Example IP: `192.168.0.1`
+
+---
+
+### IPv6 (Internet Protocol Version 6)
+
+IPv6 is the successor to IPv4 and provides a much larger address space and improved features.
+
+#### Key Features of IPv6:
+- **Address Format:** 128-bit address (e.g., `2001:0db8:85a3:0000:0000:8a2e:0370:7334`).
+- **Address Space:** Supports approximately **\(3.4 \times 10^{38}\)** unique addresses.
+- **Header Size:** 40 bytes.
+- **Configuration:** Supports **auto-configuration**.
+- **Security:** Built-in support for encryption (e.g., **IPsec** is mandatory).
+
+Example IP: `2001:0db8:85a3::8a2e:0370:7334`
+
+---
+
+## Key Differences Between IPv4 and IPv6
+
+| Feature               | IPv4                            | IPv6                             |
+|-----------------------|---------------------------------|-----------------------------------|
+| **Address Size**       | 32-bit                          | 128-bit                          |
+| **Address Notation**   | Dotted decimal (e.g., `192.168.1.1`) | Hexadecimal (e.g., `2001:db8::1`) |
+| **Address Space**      | 4.3 billion addresses           | Virtually unlimited              |
+| **Header Size**        | 20 bytes                        | 40 bytes                         |
+| **Security**           | Optional (IPsec)                | Mandatory (IPsec)                |
+| **Configuration**      | Manual/DHCP                     | Auto-configuration supported     |
+| **Fragmentation**      | Routers and hosts               | Hosts only                       |
+
+---
+
+## MAC Address
+
+A **MAC Address** is a unique identifier for a network device. It is represented as a 12-character hexadecimal number (e.g., `a4:c3:f0:85:ac:2d`). The first six characters represent the manufacturer, while the last six are a unique identifier for the device.
+
+---
+
+## MAC Address Spoofing
+
+**MAC Address spoofing** is when a network device pretends to be another device by changing its MAC address. This can break poorly designed security systems that trust devices based solely on MAC addresses. 
+
+**Example Scenario:**
+If a firewall is configured to allow communication from a specific MAC address (e.g., the administrator’s MAC), an attacker can "spoof" this MAC address, and the firewall would mistakenly trust the communication as coming from the administrator.
+
+---
+
+## Ping
+
+**Ping** is a simple tool used to test the reliability and existence of a network connection. It uses **ICMP** (Internet Control Message Protocol) packets to check the performance and availability of devices in a network.
 
 ---
