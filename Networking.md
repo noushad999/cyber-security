@@ -522,14 +522,55 @@ Switching can be categorized into three main types:
   - Connectionless or connection-oriented.
   - Dynamic route selection for each packet.
   - Efficient use of network bandwidth.
-- **Advantages:**
-  - Better utilization of resources.
-  - More scalable and flexible.
-  - Suitable for bursty traffic like internet browsing.
-- **Disadvantages:**
-  - Potential delay due to packet queuing and reassembly.
-  - Less predictable QoS.
-- **Applications:** Internet, email, file transfer protocols.
+
+---
+
+#### **Types of Packet Switching**
+
+1. **Datagram Switching**
+   - **Description:** Each packet is treated independently, and packets may take different paths to the destination.
+   - **Key Features:**
+     - No predefined path is established.
+     - Each packet contains full destination addressing.
+     - Packets may arrive out of order.
+   - **Advantages:**
+     - Highly flexible and robust.
+     - Efficient for dynamic networks.
+   - **Disadvantages:**
+     - Requires packet reassembly at the destination.
+     - Variable delays due to different paths.
+   - **Applications:** Internet Protocol (IP).
+
+2. **Virtual Circuit Switching**
+   - **Description:** Establishes a logical path (virtual circuit) before data packets are sent.
+   - **Key Features:**
+     - Predefined path for all packets in a session.
+     - Packets are delivered in order.
+     - More predictable QoS compared to datagram switching.
+   - **Advantages:**
+     - Easier packet reassembly.
+     - Reduced packet loss.
+   - **Disadvantages:**
+     - Setup time required to establish the circuit.
+     - Less flexible in dynamic network changes.
+   - **Applications:** MPLS (Multi-Protocol Label Switching), ATM (Asynchronous Transfer Mode).
+
+---
+
+#### **Advantages of Packet Switching**
+- Better utilization of resources.
+- More scalable and flexible.
+- Suitable for bursty traffic like internet browsing.
+
+#### **Disadvantages of Packet Switching**
+- Potential delay due to packet queuing and reassembly.
+- Less predictable QoS.
+
+#### **Applications of Packet Switching**
+- Internet.
+- Email.
+- File transfer protocols.
+
 
 ---
 
