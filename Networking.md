@@ -358,3 +358,116 @@ If a firewall is configured to allow communication from a specific MAC address (
 **Ping** is a simple tool used to test the reliability and existence of a network connection. It uses **ICMP** (Internet Control Message Protocol) packets to check the performance and availability of devices in a network.
 
 ---
+
+# Physical Layer
+
+The **Physical Layer** is the first and lowest layer of the **OSI Model**, responsible for the physical connection between devices. It defines the hardware and transmission medium used to transmit raw data (bits) across the network.
+
+## Key Responsibilities of the Physical Layer:
+1. **Data Transmission:** Converts digital data into electrical, optical, or radio signals for transmission.
+2. **Bit Synchronization:** Ensures data is sent and received at the correct timing.
+3. **Physical Topology:** Defines how devices are physically connected (e.g., bus, star, ring topologies).
+4. **Transmission Medium:** Determines the medium over which data is transmitted, such as cables or wireless signals.
+
+---
+
+# Transmission Media
+
+Transmission media refers to the physical path used to carry signals from one device to another in a network. It is broadly classified into two types:
+
+1. **Guided Media:** The signal travels through a physical medium, such as cables.
+2. **Unguided Media:** The signal is transmitted wirelessly through air or space.
+
+---
+
+## Types of Transmission Media
+
+### 1. **Guided Media**
+Guided media uses cables or physical mediums to transmit signals. Common types include:
+
+#### (a) **Twisted Pair Cable**
+- **Description:** Two insulated copper wires twisted together to reduce electromagnetic interference.
+- **Types:**
+  - **Unshielded Twisted Pair (UTP):** Most common for Ethernet cables.
+  - **Shielded Twisted Pair (STP):** Contains an additional shielding layer for better noise resistance.
+- **Advantages:**
+  - Cost-effective and easy to install.
+  - Suitable for short-distance communication.
+- **Disadvantages:**
+  - Limited bandwidth and prone to interference.
+- **Common Use Cases:** LANs, telephone lines.
+
+---
+
+### UTP Categories
+
+| **UTP Category** | **Data Rate**             | **Max Length** | **Cable Type**          | **Application**                  |
+|-------------------|---------------------------|----------------|-------------------------|----------------------------------|
+| **Cat 1**         | Up to 1 Mbps             | 100 meters     | Voice-grade             | Analog voice (telephone lines)  |
+| **Cat 2**         | Up to 4 Mbps             | 100 meters     | Low-speed               | Token Ring networks             |
+| **Cat 3**         | Up to 10 Mbps            | 100 meters     | Data-grade              | Ethernet (10BASE-T), voice      |
+| **Cat 4**         | Up to 16 Mbps            | 100 meters     | Improved data-grade     | Token Ring networks             |
+| **Cat 5**         | Up to 100 Mbps           | 100 meters     | High-speed data-grade   | Ethernet (100BASE-TX)           |
+| **Cat 5e**        | Up to 1 Gbps             | 100 meters     | Enhanced data-grade     | Gigabit Ethernet, LANs          |
+| **Cat 6**         | Up to 10 Gbps (short distances) | 100 meters | High-performance data-grade | High-speed LANs, data centers  |
+| **Cat 6a**        | Up to 10 Gbps            | 100 meters     | Augmented data-grade    | High-speed networks             |
+| **Cat 7**         | Up to 10 Gbps            | 100 meters     | Shielded, high-performance | Data centers, enterprise networks |
+| **Cat 8**         | Up to 40 Gbps            | 30 meters      | Shielded, ultra-high performance | Data centers, server-to-server |
+
+---
+
+#### (b) **Coaxial Cable**
+- **Description:** A single copper core surrounded by an insulating layer, metallic shielding, and an outer plastic cover.
+- **Advantages:**
+  - Better resistance to interference than twisted pair cables.
+  - Can carry signals over longer distances.
+- **Disadvantages:**
+  - Bulkier and more expensive than twisted pair cables.
+- **Common Use Cases:** Cable TV, internet connections, and high-frequency transmission.
+
+---
+
+#### (c) **Fiber Optic Cable**
+- **Description:** Uses light signals to transmit data through a glass or plastic core.
+- **Advantages:**
+  - High-speed data transmission and extremely low signal loss.
+  - Immune to electromagnetic interference.
+  - Can transmit over very long distances.
+- **Disadvantages:**
+  - Expensive and difficult to install.
+- **Common Use Cases:** Backbone networks, long-distance communication, and high-bandwidth applications.
+
+---
+
+### 2. **Unguided Media**
+Unguided media transmits data wirelessly through electromagnetic waves. Common types include:
+
+#### (a) **Radio Waves**
+- **Advantages:** Long-range and omnidirectional.
+- **Use Cases:** AM/FM radio, Wi-Fi.
+
+#### (b) **Microwaves**
+- **Advantages:** High bandwidth and directional.
+- **Use Cases:** Satellite communication, cellular networks.
+
+#### (c) **Infrared (IR)**
+- **Advantages:** Simple and inexpensive.
+- **Use Cases:** Remote controls, short-range communication.
+
+#### (d) **Satellite Communication**
+- **Advantages:** Global coverage.
+- **Use Cases:** GPS, satellite TV, internet in remote areas.
+
+---
+
+# Comparison of Cable Types
+
+| **Feature**          | **Twisted Pair**      | **Coaxial Cable**   | **Fiber Optic**       |
+|-----------------------|-----------------------|---------------------|-----------------------|
+| **Cost**              | Low                  | Moderate            | High                  |
+| **Speed**             | Moderate             | Moderate            | Very High             |
+| **Distance**          | Short                | Moderate            | Long                  |
+| **Interference**      | High (UTP), Moderate (STP) | Low           | None                  |
+| **Use Cases**         | LANs, telephones     | Cable TV, internet  | Backbone, long-distance |
+
+---
