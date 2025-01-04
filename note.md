@@ -398,6 +398,182 @@ Spyware gathers and transmits data from infected devices, often without the user
 
 ---
 
+# Networking Devices
+
+---
+
+## 1. Hub
+
+### Definition:
+A **Hub** is a basic networking device that connects multiple devices in a Local Area Network (LAN). It operates at the **OSI Layer 1 (Physical Layer)** and broadcasts data to all devices connected to it, without any filtering or routing.
+
+### Key Features:
+- **Broadcasts data** to all devices connected, regardless of the destination.
+- No **intelligence** in directing traffic, resulting in network congestion.
+- Typically used in **small networks** or **home setups**.
+
+### Types:
+- **Passive Hub**: Simply transmits data without any amplification.
+- **Active Hub**: Amplifies and retransmits data to extend network range.
+
+### Limitations:
+- **Bandwidth sharing**: All devices share the same bandwidth.
+- **Security risks**: Data is sent to all devices, exposing sensitive information.
+
+---
+
+## 2. Repeater
+
+### Definition:
+A **Repeater** is a device used to extend the range of a network by amplifying and retransmitting signals. It works at the **OSI Layer 1 (Physical Layer)**.
+
+### Key Features:
+- **Signal amplification**: Repeats the data signal to cover longer distances.
+- Primarily used for **long-distance communication** between two network segments.
+
+### Use Cases:
+- Extends the distance of a wired network (Ethernet).
+- Commonly used in **fiber optics** and **wireless communication**.
+
+### Limitations:
+- **No data processing**: It just amplifies the signal without modifying it.
+
+---
+
+## 3. Modem
+
+### Definition:
+A **Modem** (Modulator-Demodulator) is a device that converts digital data from a computer into analog signals for transmission over phone lines or vice versa.
+
+### Key Features:
+- **Modulation**: Converts digital signals into analog signals.
+- **Demodulation**: Converts incoming analog signals back to digital.
+- Primarily used for **internet access** over telephone lines or cable connections.
+
+### Types:
+- **Dial-up Modem**: Converts data to and from analog signals for dial-up internet.
+- **DSL Modem**: Used for high-speed internet over telephone lines.
+- **Cable Modem**: Used for broadband internet over cable lines.
+
+### Limitations:
+- **Limited speed** compared to modern internet connections (fiber, wireless).
+- **Subject to interference** on analog lines.
+
+---
+
+## 4. Microphone (Mic)
+
+### Definition:
+A **Microphone** is an input device used to capture sound and convert it into digital or analog signals for processing.
+
+### Key Features:
+- Converts **sound** into **electrical signals**.
+- Used in **audio recording**, **telecommunication**, and **voice-based communication**.
+
+### Types:
+- **Dynamic Microphone**: Uses a diaphragm and coil to capture sound.
+- **Condenser Microphone**: Uses an electrically-charged diaphragm for better sound capture.
+- **Lavalier Microphone**: Small and clip-on, commonly used for presentations.
+
+---
+
+## 5. Switch
+
+### Definition:
+A **Switch** is a networking device that operates at the **OSI Layer 2 (Data Link Layer)** and is used to connect multiple devices within a LAN. Unlike hubs, switches can **filter traffic** and **forward data** only to the intended destination.
+
+### Key Features:
+- **MAC Address Table**: Switch uses MAC addresses to forward data to the correct device.
+- Reduces **collisions** compared to hubs by providing dedicated channels for communication.
+- More **efficient** and secure than hubs.
+
+### Types:
+- **Unmanaged Switch**: Plug-and-play, with no configuration required.
+- **Managed Switch**: Allows configuration and monitoring, often used in large networks.
+
+### Limitations:
+- Does not work well across different network segments (requires a router).
+
+---
+
+## 6. Bridge
+
+### Definition:
+A **Bridge** is a networking device that operates at the **OSI Layer 2 (Data Link Layer)** and is used to connect two or more separate network segments, allowing them to function as a single network.
+
+### Key Features:
+- **Traffic Filtering**: Bridges filter traffic between network segments based on MAC addresses.
+- **Collision Domain Reduction**: Helps in reducing network traffic collisions by creating smaller collision domains.
+- **Works** in **LAN environments**.
+
+### Types:
+- **Transparent Bridge**: Operates without changing the format of data being transmitted.
+- **Source Routing Bridge**: Uses source routing to determine the best path for data transmission.
+
+---
+
+## 7. Router
+
+### Definition:
+A **Router** is a device that operates at the **OSI Layer 3 (Network Layer)** and is used to connect multiple networks, typically LANs and WANs. It forwards data packets between networks based on IP addresses.
+
+### Key Features:
+- **Routing Table**: Routers maintain routing tables to determine the best path for data.
+- **Network Address Translation (NAT)**: Routers commonly perform NAT to allow multiple devices on a local network to share a single public IP address.
+- **Inter-network Communication**: Facilitates communication between different networks, including between home and the internet.
+
+### Types:
+- **Static Router**: Uses manually configured routes.
+- **Dynamic Router**: Uses routing protocols (like OSPF, BGP) to automatically determine the best path.
+
+### Limitations:
+- **Latency**: Can introduce latency due to the routing process.
+- **Configuration Complexity**: May require configuration and management, especially in larger networks.
+
+---
+
+## 8. Gateway
+
+### Definition:
+A **Gateway** is a device that connects two different types of networks, typically a local network and a wide-area network (WAN) or different protocols (e.g., IP to non-IP). It operates at the **OSI Layer 3 (Network Layer)** or higher.
+
+### Key Features:
+- **Protocol Translation**: Converts data between different protocols.
+- Commonly used to connect different network architectures, such as **connecting a LAN to the internet**.
+- **Data Routing**: It routes data based on the specific needs of the communication.
+
+### Use Cases:
+- **VoIP Gateways**: Converts digital phone signals into traditional telephone network signals.
+- **Web Gateways**: Facilitates web browsing between different network systems.
+
+---
+
+## 9. Wireless Access Point (WAP)
+
+### Definition:
+A **Wireless Access Point (WAP)** is a device that allows wireless devices (like laptops, smartphones) to connect to a wired network via Wi-Fi. It operates at the **OSI Layer 2 (Data Link Layer)**.
+
+### Key Features:
+- **Wi-Fi Connectivity**: Provides Wi-Fi connections for devices to access a wired network.
+- **Extends Coverage**: Used to extend the wireless coverage of an existing network.
+- Can be integrated with **routers** or work as standalone devices in a network.
+
+### Types:
+- **Standalone WAP**: Independent device that provides wireless connectivity.
+- **Integrated WAP**: Part of a router or switch that provides wireless connectivity.
+
+### Limitations:
+- **Signal Interference**: Can be affected by physical obstacles and other devices emitting signals on the same frequency.
+- **Limited Range**: Coverage area may be limited compared to wired connections.
+
+---
+
+## Conclusion
+
+Understanding these networking devices is crucial for designing and managing effective network infrastructure. Each device plays a specific role in facilitating communication, extending network range, improving security, and optimizing network performance.
+
+
+
 ## 3. Social Engineering Attacks
 
 **Social Engineering** exploits human psychology to manipulate people into revealing confidential information or performing actions that compromise security.
