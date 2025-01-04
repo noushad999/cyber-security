@@ -439,6 +439,17 @@ Guided media uses cables or physical mediums to transmit signals. Common types i
 
 ---
 
+### Fiber Optic Cable Types
+
+| **Fiber Type**       | **Core Diameter** | **Distance**          | **Speed**              | **Applications**               |
+|-----------------------|-------------------|------------------------|------------------------|---------------------------------|
+| **Single-Mode Fiber** | 8-10 microns      | Up to 80-100 km        | 10 Gbps to 100 Gbps    | Long-distance communication, WANs |
+| **Multi-Mode Fiber**  | 50-62.5 microns   | Up to 2 km            | 1 Gbps to 10 Gbps      | Short-distance communication, LANs |
+| **Plastic Optical Fiber (POF)** | 1 mm             | Up to 100 meters      | Up to 1 Gbps          | Home networks, consumer electronics |
+
+
+---
+
 ### 2. **Unguided Media**
 Unguided media transmits data wirelessly through electromagnetic waves. Common types include:
 
