@@ -12,7 +12,7 @@
 
 ---
 
-## 2. Phishing
+##  Phishing
 
 **Phishing** is a subset of social engineering where attackers trick victims into opening malicious links or messages to steal sensitive data.
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 3. Malware and Ransomware
+##  Malware and Ransomware
 
 **Malware** refers to software designed to harm systems, while **ransomware** encrypts data and demands payment for its release.
 
