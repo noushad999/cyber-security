@@ -5,9 +5,10 @@ The internet is often compared to an iceberg. What we see and interact with dail
 ---
 
 ## 🧊 The Internet Iceberg  
+*The iceberg analogy: the Surface Web is visible, while the Deep and Dark Webs remain hidden below the waterline.*  
 
 ![Internet Iceberg Visualization](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNoem1sZWs2enlnZ21mcXliNXRwMWd1MjhwZXUxYTRrbmVjYjllYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUq1GfrPKTrn2eBgQL/giphy.gif)
-*The iceberg analogy: the Surface Web is visible, while the Deep and Dark Webs remain hidden below the waterline.*  
+
 
 ---
 
