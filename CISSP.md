@@ -145,6 +145,3 @@ Software vulnerabilities are a common attack vector; secure coding practices red
 5. **Time Management**: Allocate time for each domain based on your familiarity.
 
 ---
-
-This detailed note serves as a comprehensive guide to understanding the CISSP domains. Study each domain thoroughly to ensure success in the CISSP exam.
-```
