@@ -6,7 +6,7 @@ The internet is often compared to an iceberg. What we see and interact with dail
 
 ## 🧊 The Internet Iceberg  
 
-![Internet Iceberg Visualization](https://media.giphy.com/media/QbXjzF4n5HTRu/giphy.gif)  
+![Internet Iceberg Visualization](https://giphy.com/gifs/teamcoco-conangreenland-JUq1GfrPKTrn2eBgQL)
 *The iceberg analogy: the Surface Web is visible, while the Deep and Dark Webs remain hidden below the waterline.*  
 
 ---
