@@ -28,7 +28,7 @@ The internet is often compared to an iceberg. What we see and interact with dail
 - **Examples**: Academic databases, online banking portals, private organizational systems.  
 - **Usage**: Legitimate and secure communication for private or sensitive information.  
 
-![Deep Web Visualization](https://media.giphy.com/media/26gsspf0C8g2zNp84/giphy.gif)  
+![Deep Web Visualization](https://tenor.com/view/deep-web-dark-web-surface-web-black-web-gif-26468653)  
 *The Deep Web is vast, containing private and secure information.*  
 
 ---
