@@ -75,6 +75,6 @@ Accessing the Deep Web is generally legal, as it’s used for legitimate purpose
 
 ## 🎥 Visualizing the Web Layers  
 
-![Web Layers GIF](https://media.giphy.com/media/QbXjzF4n5HTRu/giphy.gif)  
+![Web Layers GIF](https://tenor.com/bXdRV.gif)  
 
 *The Surface Web is the visible tip, while the Deep and Dark Web lie below the surface.*  
