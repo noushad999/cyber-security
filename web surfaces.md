@@ -7,7 +7,6 @@ The internet is often compared to an iceberg. What we see and interact with dail
 ## 🧊 The Internet Iceberg  
 *The iceberg analogy: the Surface Web is visible, while the Deep and Dark Webs remain hidden below the waterline.*  
 
-![Internet Iceberg Visualization)(https://miro.medium.com/v2/resize:fit:1400/format:webp/1*LSBfK2xo4MHY-4PZNuSYZw.jpeg)
 
 ---
 
@@ -74,6 +73,5 @@ Accessing the Deep Web is generally legal, as it’s used for legitimate purpose
 
 ## 🎥 Visualizing the Web Layers  
 
-![Web Layers GIF](https://tenor.com/bXdRV.gif)  
 
 *The Surface Web is the visible tip, while the Deep and Dark Web lie below the surface.*  
