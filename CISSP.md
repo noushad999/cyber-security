@@ -1,12 +1,11 @@
-```markdown
----
-# CISSP 8 Domains - Detailed Notes
+# CISSP 8 Domains
 
 The **CISSP (Certified Information Systems Security Professional)** certification is a globally recognized credential for information security professionals. It is governed by (ISC)² and validates expertise across eight domains of the **Common Body of Knowledge (CBK)**. These domains cover all aspects of information security, making CISSP one of the most comprehensive certifications in the field.
 
 ---
 
 ## 1. Security and Risk Management
+
 ### What is it?
 This domain focuses on foundational security principles, governance, risk management, and compliance. It ensures that professionals understand the core principles and frameworks that guide information security practices.
 
@@ -24,6 +23,7 @@ Security and risk management form the backbone of an organization’s ability to
 ---
 
 ## 2. Asset Security
+
 ### What is it?
 This domain deals with the protection of organizational assets, including data classification, handling, and lifecycle management.
 
@@ -39,6 +39,7 @@ Organizations must safeguard their assets to prevent unauthorized access, data b
 ---
 
 ## 3. Security Architecture and Engineering
+
 ### What is it?
 This domain covers the design and implementation of secure systems, including hardware, software, and physical security.
 
@@ -55,6 +56,7 @@ Proper security architecture ensures that systems are resilient to attacks and a
 ---
 
 ## 4. Communication and Network Security
+
 ### What is it?
 This domain focuses on the secure design and management of networks, communication channels, and protocols.
 
@@ -71,6 +73,7 @@ Networks are a primary attack vector; securing them is critical to protecting or
 ---
 
 ## 5. Identity and Access Management (IAM)
+
 ### What is it?
 IAM ensures that only authorized individuals have access to systems and data by managing identities and enforcing access controls.
 
@@ -92,6 +95,7 @@ Proper identity and access management reduces the risk of unauthorized access, i
 ---
 
 ## 6. Security Assessment and Testing
+
 ### What is it?
 This domain involves evaluating the effectiveness of security controls and identifying vulnerabilities.
 
@@ -107,6 +111,7 @@ Regular assessments ensure that security measures are effective and up-to-date.
 ---
 
 ## 7. Security Operations
+
 ### What is it?
 This domain focuses on the day-to-day management of security operations, including incident response and disaster recovery.
 
@@ -123,6 +128,7 @@ Effective security operations minimize the impact of security incidents and ensu
 ---
 
 ## 8. Software Development Security
+
 ### What is it?
 This domain addresses the secure design, development, and deployment of software applications.
 
@@ -139,10 +145,9 @@ Software vulnerabilities are a common attack vector; secure coding practices red
 ---
 
 ## Study Tips
+
 1. **Understand Concepts**: Focus on real-world applications, not just memorization.
 2. **Practice Questions**: Use practice exams to test your knowledge and identify weak areas.
 3. **Use Study Guides**: Refer to resources like the CISSP Official Study Guide or online courses.
 4. **Group Study**: Join forums or study groups to learn from peers.
 5. **Time Management**: Allocate time for each domain based on your familiarity.
-
----
