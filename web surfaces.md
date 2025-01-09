@@ -27,8 +27,7 @@ The internet is often compared to an iceberg. What we see and interact with dail
 - **Definition**: Internet content not indexed by search engines, requiring credentials or specific URLs to access.  
 - **Examples**: Academic databases, online banking portals, private organizational systems.  
 - **Usage**: Legitimate and secure communication for private or sensitive information.  
-
-![Deep Web Visualization](https://tenor.com/view/deep-web-dark-web-surface-web-black-web-gif-26468653)  
+ 
 *The Deep Web is vast, containing private and secure information.*  
 
 ---
@@ -38,7 +37,7 @@ The internet is often compared to an iceberg. What we see and interact with dail
 - **Examples**: Anonymous forums, privacy-focused tools, and sometimes illegal marketplaces.  
 - **Usage**: Often used for anonymity, whistleblowing, and unfortunately, illicit activities.  
 
-![Dark Web Visualization](https://media.giphy.com/media/3o6ZsZes3p3Ujcvqbu/giphy.gif)  
+![Dark Web Visualization](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xsa2Q1MzYxdTYzdjIxczd0bm84YmoycjBtMHVjMXNlMGVlcjRheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPlCroSFHV8uoko/giphy.gif)  
 *The Dark Web offers anonymity but comes with risks and ethical concerns.*  
 
 ---
