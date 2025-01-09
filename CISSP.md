@@ -1,4 +1,5 @@
 ```markdown
+---
 # CISSP 8 Domains - Detailed Notes
 
 The **CISSP (Certified Information Systems Security Professional)** certification is a globally recognized credential for information security professionals. It is governed by (ISC)² and validates expertise across eight domains of the **Common Body of Knowledge (CBK)**. These domains cover all aspects of information security, making CISSP one of the most comprehensive certifications in the field.
